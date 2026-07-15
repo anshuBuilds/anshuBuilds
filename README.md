@@ -17,7 +17,7 @@ I’m a backend-focused developer who enjoys turning ideas into reliable, real-w
 
 My main stack is **Java, Spring Boot, PostgreSQL, and React**. I like working on API design, authentication, database-backed applications, concurrency, and clean object-oriented design.
 
-Currently, I’m sharpening my understanding of **Low-Level Design, system design, infrastructure, and scalable backend architecture**—one project at a time.
+Currently, I’m sharpening my understanding of **Low-Level Design, system design, infrastructure, and scalable backend architecture**.
 
 ### Things I build
 
