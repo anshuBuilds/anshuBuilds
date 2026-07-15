@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anshu Yadav
 
-<!--
-**anshuBuilds/anshuBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer learning by building real systems.
 
-Here are some ideas to get you started:
+I work mostly with Java, Spring Boot, PostgreSQL, and React. I enjoy designing APIs, writing clean backend logic, understanding system design, and building projects that feel close to real production use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m sharpening my skills in low-level design, concurrency, authentication, infrastructure, and scalable backend architecture.
+
+Some things I like building:
+
+- REST APIs with Spring Boot
+- Full-stack management systems
+- Scheduling and booking platforms
+- Backend utilities and infrastructure-style projects
+- Clean object-oriented designs in Java
+
+I believe the best way to learn engineering is to build, break, debug, and improve.
+
+## Connect with me
+
+- Email: [anshu.devx@gmail.com](mailto:anshu.devx@gmail.com)
+- X: [@code_anshu](https://x.com/code_anshu)
