@@ -1,22 +1,39 @@
-# Hi, I'm Anshu Yadav
+<h1 align="center">Hey, I'm Anshu Yadav</h1>
 
-Backend-focused developer learning by building real systems.
+<p align="center">
+  Backend Developer • Java Enthusiast • Building systems that solve real problems
+</p>
 
-I work mostly with Java, Spring Boot, PostgreSQL, and React. I enjoy designing APIs, writing clean backend logic, understanding system design, and building projects that feel close to real production use.
+<p align="center">
+  <a href="mailto:anshu.devx@gmail.com">Email</a> •
+  <a href="https://x.com/code_anshu">X / @code_anshu</a>
+</p>
 
-Currently, I’m sharpening my skills in low-level design, concurrency, authentication, infrastructure, and scalable backend architecture.
+---
 
-Some things I like building:
+### About me
 
-- REST APIs with Spring Boot
+I’m a backend-focused developer who enjoys turning ideas into reliable, real-world systems.
+
+My main stack is **Java, Spring Boot, PostgreSQL, and React**. I like working on API design, authentication, database-backed applications, concurrency, and clean object-oriented design.
+
+Currently, I’m sharpening my understanding of **Low-Level Design, system design, infrastructure, and scalable backend architecture**—one project at a time.
+
+### Things I build
+
+- RESTful APIs with Spring Boot
 - Full-stack management systems
 - Scheduling and booking platforms
-- Backend utilities and infrastructure-style projects
-- Clean object-oriented designs in Java
+- Authentication and role-based access flows
+- Backend utilities such as HTTP servers and thread pools
+- LLD projects to strengthen OOP and design thinking
 
-I believe the best way to learn engineering is to build, break, debug, and improve.
+### Tech I work with
 
-## Connect with me
-
-- Email: [anshu.devx@gmail.com](mailto:anshu.devx@gmail.com)
-- X: [@code_anshu](https://x.com/code_anshu)
+```text
+Languages:      Java, JavaScript, SQL
+Backend:        Spring Boot, REST APIs, Spring Security
+Frontend:       React, Vite
+Databases:      PostgreSQL
+Core concepts:  OOP, SOLID, Concurrency, JWT, OAuth 2.0, LLD
+Tools:          Git, GitHub, Docker
